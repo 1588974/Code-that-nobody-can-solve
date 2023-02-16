@@ -1,5 +1,4 @@
 /*
-Colby Freeman
 Period 1
 2/7/2023
 Reversing an array
